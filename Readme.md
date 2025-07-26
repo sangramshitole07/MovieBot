@@ -76,9 +76,7 @@ HF_ACCESS_TOKEN=your_huggingface_access_token
 # MongoDB
 MONGODB_URI=your_mongodb_connection_string # e.g., mongodb://localhost:27017/chatbot_db or your Atlas URI
 
-# NextAuth.js (for authentication, if used)
-NEXTAUTH_SECRET=your_nextauth_secret_long_random_string # Generate a strong random string
-NEXTAUTH_URL=http://localhost:3000
+
 
 Note: For NEXTAUTH_SECRET, you can generate a random string using a tool or a command like openssl rand -base64 32 in your terminal.
 
