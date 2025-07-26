@@ -3,5 +3,6 @@ node_modules/
 
 # Environment variables
 .env
-.env.local # In case you have .env.development, .env.production, etc.
+.env.local 
+# In case you have .env.development, .env.production, etc.
 
