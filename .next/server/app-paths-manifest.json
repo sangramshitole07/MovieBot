@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/api/chats/route": "app/api/chats/route.js",
+  "/api/users/login/route": "app/api/users/login/route.js",
+  "/api/users/logout/route": "app/api/users/logout/route.js",
+  "/api/users/signup/route": "app/api/users/signup/route.js",
+  "/api/users/me/route": "app/api/users/me/route.js"
+}
